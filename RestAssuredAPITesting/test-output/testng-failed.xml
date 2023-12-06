@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Session6.JSONObjectUsingJacksonAPI">
+      <class name="Session7.FileUploadTest">
         <methods>
-          <include name="createUser"/>
+          <include name="uploadfile2"/>
         </methods>
-      </class> <!-- Session6.JSONObjectUsingJacksonAPI -->
+      </class> <!-- Session7.FileUploadTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

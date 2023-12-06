@@ -9,7 +9,8 @@ import com.github.scribejava.core.model.Response;
 
 import io.restassured.RestAssured;
 import io.restassured.specification.RequestSpecification;
-
+// How To Upload File In Rest Assured
+// https://youtu.be/fzDBx4kmBPg?si=3sQwJYJhuLxEvuTl
 public class FileUploadTest {
 	
 	@Test
