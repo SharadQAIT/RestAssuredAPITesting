@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Session3.ValidateXMLResponse">
+      <class name="Session6.JSONObjectUsingJacksonAPI">
         <methods>
-          <include name="getTraveldata"/>
+          <include name="createUser"/>
         </methods>
-      </class> <!-- Session3.ValidateXMLResponse -->
+      </class> <!-- Session6.JSONObjectUsingJacksonAPI -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

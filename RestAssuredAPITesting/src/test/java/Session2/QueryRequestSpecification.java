@@ -10,7 +10,8 @@ import io.restassured.http.Headers;
 import io.restassured.specification.QueryableRequestSpecification;
 import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.SpecificationQuerier;
-
+//How To Retrieve/Query Request Specification
+//https://youtu.be/CxT3rfmQs6g?si=9xWb9iCfkWbjPqIh
 public class QueryRequestSpecification {
 
 	
