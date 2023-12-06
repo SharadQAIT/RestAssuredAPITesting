@@ -125,7 +125,6 @@ public class JSONObjectUsingJacksonAPI {
 		
 		//update json object or object node
 				userDetails.put("lastName", "Sharma");
-
 				techSkills.put("Programming language", "C#");
 				userDetails.set("TechSkill", techSkills);
 				//print userDetails JSON Object
