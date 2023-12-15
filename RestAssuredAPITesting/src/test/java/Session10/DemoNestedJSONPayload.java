@@ -46,7 +46,7 @@ public class DemoNestedJSONPayload {
 		emp1address.setPincode(380008);
 		emp1.setAddress(emp1address);
 		
-		// convert class object to json object as string
+		//Serialization : convert class object to json object as string
 		
 		ObjectMapper objectMapper=new ObjectMapper();
 		

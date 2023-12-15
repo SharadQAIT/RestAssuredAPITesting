@@ -94,8 +94,7 @@ public class DemoComplexNestedJSONObject {
 
 		String jsonpayload = objectMapper.writerWithDefaultPrettyPrinter().writeValueAsString(requestPayload);
 
-		
-		  
+		 
 		  RequestSpecification reqSpec= RestAssured.given();
 		  
 		  // Specify URL
