@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-18T19:10:31 IST" name="Default suite" finished-at="2023-12-18T19:10:33 IST" duration-ms="1742">
+  <suite started-at="2023-12-19T12:28:13 IST" name="Default suite" finished-at="2023-12-19T12:28:16 IST" duration-ms="3430">
     <groups>
     </groups>
-    <test started-at="2023-12-18T19:10:31 IST" name="Default test" finished-at="2023-12-18T19:10:33 IST" duration-ms="1742">
-      <class name="Session14.DemoTest">
-        <test-method signature="test1()[pri:1, instance:Session14.DemoTest@82de64a]" started-at="2023-12-18T19:10:31 IST" name="test1" finished-at="2023-12-18T19:10:33 IST" duration-ms="1704" status="PASS">
+    <test started-at="2023-12-19T12:28:13 IST" name="Default test" finished-at="2023-12-19T12:28:16 IST" duration-ms="3430">
+      <class name="Session15.AddhHeaderRequestDemo">
+        <test-method signature="test1()[pri:1, instance:Session15.AddhHeaderRequestDemo@201a4587]" started-at="2023-12-19T12:28:13 IST" name="test1" finished-at="2023-12-19T12:28:14 IST" duration-ms="1558" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-      </class> <!-- Session14.DemoTest -->
+        <test-method signature="test2()[pri:2, instance:Session15.AddhHeaderRequestDemo@201a4587]" started-at="2023-12-19T12:28:14 IST" name="test2" finished-at="2023-12-19T12:28:15 IST" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:3, instance:Session15.AddhHeaderRequestDemo@201a4587]" started-at="2023-12-19T12:28:15 IST" name="test3" finished-at="2023-12-19T12:28:15 IST" duration-ms="114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:4, instance:Session15.AddhHeaderRequestDemo@201a4587]" started-at="2023-12-19T12:28:15 IST" name="test4" finished-at="2023-12-19T12:28:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:5, instance:Session15.AddhHeaderRequestDemo@201a4587]" started-at="2023-12-19T12:28:15 IST" name="test5" finished-at="2023-12-19T12:28:16 IST" duration-ms="1397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+      </class> <!-- Session15.AddhHeaderRequestDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
