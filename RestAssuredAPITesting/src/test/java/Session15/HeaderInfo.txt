@@ -1,0 +1,32 @@
+
+How To Add Header In Request
+-------------------------------
+
+Headers are metadata(data about data) of request and response of an API.
+
+Interfaces RequestSpecification and ResponseSpefication have multiple overloaded methods named "headers()" and header().
+
+
+RequestSpecification
+---------------------
+
+We can use headers () or header methods of RequestSpecification to send headers with an request to an API
+
+overloaded methods
+------------------
+
+ 1) RequestSpecification headers(String firstHeaderName, Object firstHeaderValue,object...........headerNameValuepairs);
+ 2) RequestSpecification headers <Map<String,?>headers);
+ 3) RequestSpecification headers(Headers headers);
+ 4) RequestSpecification headers(String headerName, Object headerValue, Object........additionalHeaderValues);
+ 5) RequestSpecificatio header (Header header);
+
+
+Example:
+key: "Header1"
+value: "Value1"
+
+ResponseSpecifications
+-------------------------
+use headers() and header() method of ResponseSpecification to put assertions on headers received with a response.
+ 
