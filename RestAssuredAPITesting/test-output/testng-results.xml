@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-15T18:02:16 IST" name="Default suite" finished-at="2023-12-15T18:02:17 IST" duration-ms="291">
+  <suite started-at="2023-12-18T19:10:31 IST" name="Default suite" finished-at="2023-12-18T19:10:33 IST" duration-ms="1742">
     <groups>
     </groups>
-    <test started-at="2023-12-15T18:02:16 IST" name="Default test" finished-at="2023-12-15T18:02:17 IST" duration-ms="291">
-      <class name="Session13.DemoJSONIgnore">
-        <test-method signature="testMethod1()[pri:0, instance:Session13.DemoJSONIgnore@26e356f0]" started-at="2023-12-15T18:02:16 IST" name="testMethod1" finished-at="2023-12-15T18:02:17 IST" duration-ms="255" status="PASS">
+    <test started-at="2023-12-18T19:10:31 IST" name="Default test" finished-at="2023-12-18T19:10:33 IST" duration-ms="1742">
+      <class name="Session14.DemoTest">
+        <test-method signature="test1()[pri:1, instance:Session14.DemoTest@82de64a]" started-at="2023-12-18T19:10:31 IST" name="test1" finished-at="2023-12-18T19:10:33 IST" duration-ms="1704" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testMethod1 -->
-      </class> <!-- Session13.DemoJSONIgnore -->
+        </test-method> <!-- test1 -->
+      </class> <!-- Session14.DemoTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
